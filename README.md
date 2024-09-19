@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on structural engineering an data analysis using python
+- 🌱 I’m currently learning object-orientated programming with Python
+
 <!--
 **kjellbuehler/kjellbuehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
