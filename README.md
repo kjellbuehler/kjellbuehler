@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on structural engineering, structural health monitoring and data analysis using Python
+- 🔭 I’m currently working on structural mechanics, structural health monitoring and data analysis using Python
 - 🌱 I’m currently learning object orientated collaborative programming with Python
 
 <!--
